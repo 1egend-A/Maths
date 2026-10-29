@@ -1,0 +1,2 @@
+﻿total_load_kWh,total_pv_kWh,total_grid_purchase_kWh,total_purchase_cost_yuan,baseline_no_storage_cost_yuan,cost_saving_yuan,cost_saving_rate,soc_min_kWh,soc_max_kWh,soc_0_kWh,soc_24_kWh,simultaneous_charge_discharge_slots
+111024.80809999998,55482.835666666666,59482.69899835391,35126.94858928962,48052.046590846665,12925.098001557046,0.2689812176287018,1199.9999999999927,10800.000000000002,6000.0,6000.0,0

@@ -1,4 +1,4 @@
-# 1egend-A/1
+# 1egend-A/Maths
 
 本仓库按项目分文件夹归档。
 

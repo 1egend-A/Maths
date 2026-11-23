@@ -32,6 +32,12 @@
 │  └─ coursework.md
 ├─ decisions/
 │  └─ lessons.md          关键决策与教训（背景 / 决定 / 依据 / 代价）
+├─ resume/
+│  ├─ achievements.md     量化成果总表（简历第一素材）
+│  ├─ bullets.md          可直接粘贴的简历条目（中英）
+│  ├─ skills-and-gaps.md  技能矩阵：证据与缺口
+│  ├─ targets.md          目标岗位与匹配度
+│  └─ honors.md           竞赛奖项与证书（含待补占位）
 ├─ toolchain/
 │  ├─ environment.md      本机环境与工具踩坑速查
 │  ├─ md-to-pdf.md        Markdown → A4 PDF 自建链路
@@ -66,6 +72,7 @@
 | 现在手上有哪些没做完的事 | `me/context.md` |
 | 某个项目的前因后果 | `projects/<项目>.md` |
 | 以前在哪儿摔过跤、为什么 | `decisions/lessons.md` |
+| 要写简历、准备面试 | `resume/`（先看 `achievements.md`） |
 | 本机环境怎么配、某个报错怎么解 | `toolchain/environment.md` |
 | 要自己拼 PDF、公式渲染、压页数 | `toolchain/md-to-pdf.md` |
 | AI 怎么记我的事、会话怎么开 | `toolchain/ai-collaboration.md` |

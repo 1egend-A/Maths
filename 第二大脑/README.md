@@ -29,6 +29,7 @@
 │  ├─ sf-2026-c.md
 │  ├─ mathorcup-2026-a.md
 │  ├─ gvmarker.md
+│  ├─ internship-futures.md
 │  └─ coursework.md
 ├─ decisions/
 │  └─ lessons.md          关键决策与教训（背景 / 决定 / 依据 / 代价）
